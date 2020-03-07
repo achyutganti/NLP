@@ -1,0 +1,22 @@
+Name,Sentences,Words,Syllables,Year,Type,Score,Edu_Needed,Level
+Review for Casual Inference for Bio-Informatics,489,10797,18636,2011,Article,38.401,College,Difficult to read
+The Bible,87,2515,3220,1611,Literature,69.17,8th - 9th grade,Plain English
+Rich Dad Poor Dad,4329,53323,78423,1997,Novel,69.91,8th - 9th grade,Plain English
+Moby Dick,7563,217428,325127,1851,Novel,51,10th -12th grade,Fairly difficult 
+History of Greece,16705,211138,336806,2018,History,59,10th -12th grade,Fairly difficult
+Tragedy of Macbeth,823,18099,25277,1606,Literature,66.59,8th - 9th grade,Plain English
+The man in the high castle,8707,80599,118799,1962,History,72.76,7th grade,Fairly easy
+Harry potter and the sorcerer’s stone,6138,78670,109558,1997,Fantasy Fiction,76.009,7th grade,Fairly easy
+Harry potter and the prisoner of azkaban,9868,114421,160691,1999,Fantasy Fiction,76.25,7th grade,Fairly easy
+Harry potter and the Order of Pheonix,21594,272161,384459,2003,Fantasy Fiction,74.53,7th grade,Fairly easy
+Harry potter and the goblet of fire,17422,202952,283119,2000,Fantasy Fiction,76.99,7th grade,Fairly easy
+Harry potter and the chamber of secrets,6937,89959,125934,1998,Fantasy Fiction,75.24,7th grade,Fairly easy
+Harry potter and the half blood prince,13563,178712,255490,2005,Fantasy Fiction,72.515,7th grade,Fairly easy
+The Alchemist,2618,38872,53496,1988,Fantasy Fiction,75.33,7th grade,Fairly easy
+Songs of Action,642,15144,21126,1898,Adventure,64.87,8th - 9th grade,Plain English
+The Adventures of Sherlock Holmes,96193,105423,1148302,1892,Detective Fiction,70.54,7th grade,Fairly easy
+Algorithms in Python,30819,292333,409183,,Computers,78.79,7th grade,Fairly easy
+Spark in Python,3602,40958,69722,,Computers,51.28,10th -12th grade,Fairly difficult
+Hadoop in Python,1358,13629,22629,,Computers,56.18,10th -12th grade,Fairly difficult
+Top 10 Wildly successful blogs,102,2084,3492,,Blogs,44.39,College,Difficult to read
+Right things before 30,85,1488,2297,,Blogs,58.47,10th -12th grade,Fairly difficult
